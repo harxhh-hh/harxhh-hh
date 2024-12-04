@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I'm a undergraduate pursuing Computer Science And Engineering at Vellore Institute of Technology.
+
+- I'm currently working on Front-End Web Development 🌎
+- I'm currently learning Solidity and Blockchain Programming 🚀
+  
 <!--
 **harxhh-hh/harxhh-hh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
